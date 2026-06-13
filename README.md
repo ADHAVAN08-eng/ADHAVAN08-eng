@@ -21,13 +21,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavan810@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adhavan810&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/adhavan810)
-<img width="1366" height="1366" alt="image" src="https://github.com/user-attachments/assets/ce69d1d5-51bc-475e-9160-020018771d9d" />
 
 </div>
 
 ---
 
 ## 🎯 About Me
+
+<img align="right" width="220" style="border-radius:50%;margin-left:20px;margin-bottom:10px" src="https://github.com/adhavan810.png"/>
 
 I am an **Electronics & Communication Engineering undergraduate** at Saveetha Engineering College, Chennai, with a strong foundation in **Embedded Systems, Artificial Intelligence, and IoT Architecture**. My academic journey is defined by a commitment to translating theoretical knowledge into impactful, real-world solutions.
 
