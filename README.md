@@ -21,6 +21,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavan810@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adhavan810&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/adhavan810)
+<img width="1366" height="1366" alt="image" src="https://github.com/user-attachments/assets/ce69d1d5-51bc-475e-9160-020018771d9d" />
 
 </div>
 
