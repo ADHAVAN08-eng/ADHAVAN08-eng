@@ -207,7 +207,7 @@ print(me.motto())
 
 ### 💬 "Bridge the gap between hardware and intelligence."
 
-Made with ❤️ from Chennai, India 🇮🇳
+Made with ❤️ ADHAVAN K from Chennai.
 
 </div>
 
