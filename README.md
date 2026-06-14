@@ -28,6 +28,7 @@
 
 ## 🎯 About Me
 
+<img align="right" width="220" style="border-radius:50%;margin-left:20px;margin-bottom:10px" src="https://github.com/ADHAVAN08-eng.png"/>
 
 I am an **Electronics & Communication Engineering undergraduate** at Saveetha Engineering College, Chennai, with a strong foundation in **Embedded Systems, Artificial Intelligence, and IoT Architecture**. My academic journey is defined by a commitment to translating theoretical knowledge into impactful, real-world solutions.
 
@@ -59,21 +60,46 @@ Beyond academics, I have hands-on industry exposure through my engineering inter
 
 ## 🚀 Current Focus (2026)
 
-```
-Active_Initiatives:
-  - Embedded_AI:        "Deploying AI models on edge/embedded devices"
-  - Computer_Vision:    "Advanced real-time detection and OCR systems"
-  - IoT_Architecture:   "Designing scalable sensor network solutions"
-  - Research_Innovation:"Publishing on security and AI-driven systems"
-  - Open_Source:        "Contributing to embedded and AI communities"
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Learning_Path:
-  - Deep Learning for Edge Devices (TinyML)
-  - RTOS & Firmware Development (FreeRTOS)
-  - Advanced Communication Protocols (CAN, Modbus, RS-485)
-  - Cloud for IoT (AWS IoT Core, MQTT)
-  - YOLOv8 & Real-time Computer Vision
-```
+### 🎯 Active Initiatives
+
+| Initiative | Focus |
+|-----------|-------|
+| 🤖 **Embedded AI** | Deploying AI models on edge & embedded devices |
+| 👁️ **Computer Vision** | Advanced real-time detection and OCR systems |
+| 📡 **IoT Architecture** | Designing scalable sensor network solutions |
+| 🔬 **Research Innovation** | Publishing on security and AI-driven systems |
+| 🌐 **Open Source** | Contributing to embedded and AI communities |
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📚 Learning Path
+
+| Status | Topic |
+|--------|-------|
+| 🔥 **Active** | Deep Learning for Edge Devices (TinyML) |
+| 🔥 **Active** | RTOS & Firmware Development (FreeRTOS) |
+| 📖 **Studying** | Advanced Protocols — CAN, Modbus, RS-485 |
+| 📖 **Studying** | Cloud for IoT — AWS IoT Core, MQTT |
+| 🎯 **Next** | YOLOv8 & Real-time Computer Vision |
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+![Embedded AI](https://img.shields.io/badge/TinyML-Edge_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Firmware-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS_IoT-Core-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer_Vision-FF6600?style=for-the-badge&logo=opencv&logoColor=white)
+![Research](https://img.shields.io/badge/Springer-Publishing-B31B1B?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+</div>
 
 ---
 
