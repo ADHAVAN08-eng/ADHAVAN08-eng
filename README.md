@@ -15,12 +15,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adhavan810)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhavan810)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhavan810)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ADHAVAN08-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhavan-k-01a9002a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADHAVAN08-eng)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavan810@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adhavan810&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/adhavan810)
+[![Profile Views](https://komarev.com/ghpvc/?username=ADHAVAN08-eng&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ADHAVAN08-eng)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 🎯 About Me
 
-<img align="right" width="220" style="border-radius:50%;margin-left:20px;margin-bottom:10px" src="https://github.com/adhavan810.png"/>
+<img align="right" width="220" style="border-radius:50%;margin-left:20px;margin-bottom:10px" src="https://github.com/ADHAVAN08-eng.png"/>
 
 I am an **Electronics & Communication Engineering undergraduate** at Saveetha Engineering College, Chennai, with a strong foundation in **Embedded Systems, Artificial Intelligence, and IoT Architecture**. My academic journey is defined by a commitment to translating theoretical knowledge into impactful, real-world solutions.
 
@@ -244,11 +244,11 @@ Q4_2026:
 
 <div align="center">
 
-<a href="https://github.com/adhavan810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhavan810&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/ADHAVAN08-eng">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADHAVAN08-eng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/adhavan810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhavan810&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/ADHAVAN08-eng">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADHAVAN08-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -257,7 +257,7 @@ Q4_2026:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adhavan810&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ADHAVAN08-eng&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -265,7 +265,7 @@ Q4_2026:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adhavan810&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ADHAVAN08-eng&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -273,7 +273,7 @@ Q4_2026:
 
 <div align="center">
 
-[![Adhavan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhavan810&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adhavan810)
+[![Adhavan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADHAVAN08-eng&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ADHAVAN08-eng)
 
 </div>
 
