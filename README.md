@@ -285,33 +285,7 @@ Q4_2026:
 
 </div>
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ADHAVAN08-eng&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies Row 1"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ADHAVAN08-eng&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies Row 2"/>
-
-</div>
-
-<div align="center">
-
-| 🏆 Trophy | 📋 Description | 🎯 Status |
-|-----------|---------------|-----------|
-| ⭐ **Stars** | Get stars on your repositories | 🔄 In Progress |
-| 💻 **Commits** | Make consistent commits daily | 🔄 In Progress |
-| 📦 **Repositories** | Create and maintain public repos | ✅ Unlocking |
-| 👥 **Followers** | Grow your GitHub community | 🔄 In Progress |
-| 🔃 **Pull Requests** | Contribute via PRs | 🔄 In Progress |
-| 🐛 **Issues** | Open and resolve issues | 🔄 In Progress |
-| 🌐 **Joined GitHub** | Being part of GitHub | ✅ Unlocked |
-
-</div>
 
 ### 📈 Activity Graph
 
