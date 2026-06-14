@@ -28,7 +28,6 @@
 
 ## 🎯 About Me
 
-<img align="right" width="220" style="border-radius:50%;margin-left:20px;margin-bottom:10px" src="https://github.com/ADHAVAN08-eng.png"/>
 
 I am an **Electronics & Communication Engineering undergraduate** at Saveetha Engineering College, Chennai, with a strong foundation in **Embedded Systems, Artificial Intelligence, and IoT Architecture**. My academic journey is defined by a commitment to translating theoretical knowledge into impactful, real-world solutions.
 
